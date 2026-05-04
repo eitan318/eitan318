@@ -1,16 +1,26 @@
-## Hi there 👋
+# 0x01 | Eitan Amir
+**Low-Level Systems | Cybersecurity | Robotics**
 
-<!--
-**eitan318/eitan318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer focused on how systems work under the hood. From writing 32-bit kernels to architecting distributed applications, I build with a focus on performance, security, and clean code principles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently Engineering
+*   **KabanOS:** A custom 32-bit x86 Operating System featuring a two-stage bootloader, paging, and a scheduler.
+*   **MentoringApp:** A Full-Stack solution (DDD architecture) migrating from WPF to Blazor Hybrid.
+*   **FRC Robotics (Team Software Lead):** Developing Java/WPILib robot logic and Flutter-based scouting systems.
+
+### 🛡️ Technical Arsenal
+*   **Languages:** C, C++, Assembly (x86/64), Java, C#, Python, Bash.
+*   **Systems & Cyber:** OS Internals, Reverse Engineering, Pwn/Binary Exploitation, Embedded (STM32).
+*   **Architecture:** SOLID, OOP, MVVM, Domain-Driven Design (DDD).
+*   **DevOps:** Docker, Git, GitHub Actions (CI/CD), CMake.
+
+### 🏆 Achievements
+*   **1st Place:** National "Safe-Cracking" (Coses/Code Guru) Competition.
+*   **Physics Olympiad:** Israel National Team selection camp (2025).
+*   **Magshimim Cyber:** Graduate of the elite national cyber program.
+
+---
+
+📫 **Reach me at:** eitanamir09@gmail.com
