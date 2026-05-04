@@ -1,4 +1,4 @@
-# 0x01 | Eitan Amir
+Eitan Amir
 **Low-Level Systems | Cybersecurity | Robotics**
 
 I’m a software developer focused on how systems work under the hood. From writing 32-bit kernels to architecting distributed applications, I build with a focus on performance, security, and clean code principles.
